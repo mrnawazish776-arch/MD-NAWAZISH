@@ -2,7 +2,7 @@
 
 int main()
 {
-    // Store all registered enrollment numbers
+    // Store all registered enrollment numbers 
 
     int enrollment[33] = {
         218, 219, 220, 222, 225, 226, 227, 228,
